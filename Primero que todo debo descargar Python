@@ -1,0 +1,23 @@
+Primero que todo debo descargar Python, escribo en el navegador Python y busco para descargarlo te aparece para descargar escoges que
+sistema operativo que utilizas lo descargas y vas al explorador de windows vas a la carpeta das doble click y empiezas a instalarlo debes
+tener en cuenta los siguientes pasos si ya tienes windows 11 entonces ya trae Python instalada una version de Python dentro de windows si 
+es asi muestra una opción de Upgrade Now de lo contrario muestra la opción instalar Cuando estamos instalando Python en windows les muestra
+una opcion en la parte de abajo que dice Add Python 3.11.1 to PATH esta opcion hay que seleccionarla al no hacerlo Python no funcionaria y
+no podremos trabajar Python Damos click en la opcion y despues damos click en opcion si despues de instalarse nos muestra otra opcion que
+dice Disable path length limit esto nos permite que todas las app que corramos en Python se ejecuten de manera correcta lo seleccionamos y
+damos click en la opcion yes luego damos click en close Ya quedo instalado Python Luego le damos al boton de busqueda y escribimos CMD = 
+Command Prompt o terminal de linea de comandos en el buscador aparece Command Prompt app damos click y aparece la terminal que muestra este
+texto C:\Users\yudnaris.prado> donde escribimos C:\Users\yudnaris.prado>Python y damos enter para que muestre en la version en que estamos y
+muestra esto C:\Users\yudnaris.prado>python
+Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+Para salir de ay presionamos CTRL + Z y despues damos ENTER 
+y nos devuelve nuevamente a la linea de comandos C:\Users\yudnaris.prado>
+REPL = Read evel print loop significa que es un loop que esta constantemente leyendo evaluando e imprimiendo todo lo que escribimos en en la
+terminal REPL de Python: Es una herramienta que utilizamos para comunicarnos con el interprete de Python REPL se encarga de comunicarse con el
+interprete
+
+
+
+
